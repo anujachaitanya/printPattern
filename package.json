@@ -1,0 +1,14 @@
+{
+  "name": "printpattern",
+  "version": "1.0.0",
+  "description": "\"my working print Pattern\"",
+  "main": "printPattern.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "\"mocha\""
+  },
+  "author": "",
+  "license": "ISC"
+}
